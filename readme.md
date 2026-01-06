@@ -32,7 +32,6 @@ This is my first Python project where I learned the fundamental concepts of Pyth
 
 ![Python Program Screenshot](LW1.3_P1 SS.png)
 
-*Add your screenshot here by replacing `screenshot.png` with the path to your actual screenshot file*
 
 ## How to Run
 
